@@ -1,3 +1,35 @@
+# 🍋 Little Lemon Table Reservation App
+
+This is the final capstone project for the Meta Front-End Developer Specialization. It's a single-page React web app for the Little Lemon restaurant, allowing users to reserve tables through an interactive and validated booking form.
+
+## 🌐 Live Demo
+
+👉 [View Website](https://codedbyumer.github.io/little-lemon-reservation/)
+
+## 📦 Features
+
+- Functional booking form with validation
+- Form elements: date, time, guests, occasion
+- Accessibility tags applied
+- Responsive design (mobile-friendly)
+- Semantic HTML usage
+- Basic unit tests with `@testing-library/react`
+- GitHub Pages deployed
+
+## 🧪 Unit Testing
+
+Includes tests for:
+- Booking form rendering
+- Form submission validation
+- Button and input behaviors
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/codedbyumer/little-lemon-reservation
+cd little-lemon-reservation
+npm install
+npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
