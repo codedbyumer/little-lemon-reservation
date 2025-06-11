@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/little-lemon-reservation/static/css/main.bc12dc39.css",
+    "main.js": "/little-lemon-reservation/static/js/main.7175efe6.js",
+    "static/js/453.10e96f37.chunk.js": "/little-lemon-reservation/static/js/453.10e96f37.chunk.js",
+    "index.html": "/little-lemon-reservation/index.html",
+    "main.bc12dc39.css.map": "/little-lemon-reservation/static/css/main.bc12dc39.css.map",
+    "main.7175efe6.js.map": "/little-lemon-reservation/static/js/main.7175efe6.js.map",
+    "453.10e96f37.chunk.js.map": "/little-lemon-reservation/static/js/453.10e96f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc12dc39.css",
+    "static/js/main.7175efe6.js"
+  ]
+}
