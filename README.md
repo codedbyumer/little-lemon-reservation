@@ -13,7 +13,7 @@ This is a front-end reservation system project for the **Little Lemon** restaura
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript / React (if used)
+- JavaScript / React 
 
 ## Setup Instructions
 1. Clone the repository:
