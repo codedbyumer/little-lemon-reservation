@@ -2,6 +2,8 @@
 
 This is a front-end reservation system project for the **Little Lemon** restaurant. It allows users to reserve tables through an interactive web interface.
 
+🔗 **Live Site**: [https://codedbyumer.github.io/little-lemon-reservation/](https://codedbyumer.github.io/little-lemon-reservation/)
+
 ## Features
 - Table booking form
 - Date and time selection
@@ -17,3 +19,4 @@ This is a front-end reservation system project for the **Little Lemon** restaura
 1. Clone the repository:
    ```bash
    git clone https://github.com/codedbyumer/little-lemon-reservation.git
+
